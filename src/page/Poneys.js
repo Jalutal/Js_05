@@ -86,7 +86,7 @@ function Poneys() {
       ];
 
       return (
-        <main className="mainOrigin">
+        <main className="mainHome">
           <Header />       
             <main>
                 {poneys.map((poney) => {                

@@ -53,14 +53,14 @@
   align-items: center;
 }
 
-.ulHeader02 {
+.li02 {
   display: flex;   
   list-style-type: none;  
   justify-content: center;
   align-items: center;
   padding: 20px;
 }
-.ulHeader03 {     
+.li03 {     
   list-style-type: none; 
   padding: 20px;
   text-align: center;
@@ -71,7 +71,7 @@
   
 }
 
-.hHeader01 {
+.h12Header01 {
   background-color: antiquewhite;
   width: 25%;
   margin: auto;
@@ -87,13 +87,13 @@
 
 
 
-.mainOrigin {
+.mainHome {
   background-size: contain;
   background-image: url('https://risibank.fr/cache/medias/0/23/2304/230450/full.png');  
   background-attachment: fixed;
 }
 
-.mainOrigin article {
+.mainHome article {
   background-color: pink;
   width: 25%;
   margin: auto;
@@ -102,7 +102,7 @@
   top: 130px;
 }
 
-.mainOrigin img {
+.mainHome img {
   max-width: 40%;
 }
 

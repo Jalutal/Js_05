@@ -95,7 +95,7 @@ function Home() {
 
 
       return (
-        <main className="mainOrigin">
+        <main className="mainHome">
           <Header />       
             <main>
                 {lastFivePoneys.map((poney) => {                
